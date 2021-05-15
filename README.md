@@ -1,1 +1,1 @@
-# pl2303-serial-to-usb-c-enclosure
+# PL2303 Serial To USB-C Enclosure
